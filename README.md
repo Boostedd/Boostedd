@@ -2,7 +2,7 @@
 - 👀 I code HTML, JS, CSS, JAVA, C# and other shit
 - 🌱 I’m currently learning MongoDB and more java
 - 💞️ I’m looking to collaborate on ur mum
-- 📫 Reach me by discord: Boosted Bruv#6736 (This might have changed)
+- 📫 Reach me by discord: Boosted Bruv#2871 (This might have changed)
 
 <!---
 Boostedd/Boostedd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
