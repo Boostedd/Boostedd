@@ -1,7 +1,7 @@
 - 💀 Hi, I’m @Boostedd
-- 👀 I code Node, React, CSS, Java, C#, and i use firebase for auth cause its better than some trash insecure auth made by 8 year old markus 💀💀💀💀💀
-- 🌱 I’m currently learning nothing cause i know everything already 💀💀💀
-- 💞️ I’m looking to collaborate on ur mum
+- 👀 I code Node, React, CSS, Java, C#
+- 🌱 I’m currently learning nothing cause it takes effor to learn stuff 💀💀💀
+- 💞️ I’m looking to collaborate on something cool
 - 📫 Reach me by discord: Boosted#6969 (This might have changed)
 
 <!---
